@@ -65,6 +65,7 @@
   --dds-core-colors-danger-80: #75120d;
   --dds-core-colors-danger-90: #450606;
   --dds-core-colors-danger-100: #330103;
+  --dds-core-main: Roboto;
   --dds-colors-base-white: #ffffff;
   --dds-colors-base-black: #000000;
   --dds-colors-neutral-10: #f8f8f8;
@@ -127,6 +128,7 @@
   --dds-colors-danger-80: #75120d;
   --dds-colors-danger-90: #450606;
   --dds-colors-danger-100: #330103;
+  --dds-main: Roboto;
   --dds-core-fonts-main: Roboto;
   --dds-core-fonts-mail: Arial;
   --dds-core-colors-c-base-white: #ffffff;

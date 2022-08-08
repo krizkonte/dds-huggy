@@ -262,5 +262,9 @@
         "type": "color"
       }
     }
+  },
+  "main": {
+    "value": "Roboto",
+    "type": "fontFamilies"
   }
 }
