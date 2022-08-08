@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/huggy-tokens.figma-tokens-l6l3ndgx",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve EwJsJacr1yxZpA1p6zl9 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
