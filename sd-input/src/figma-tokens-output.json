@@ -777,7 +777,7 @@
         "type": "sizing"
       },
       "multiplier": {
-        "value": "2",
+        "value": "2.2",
         "type": "sizing"
       }
     }
