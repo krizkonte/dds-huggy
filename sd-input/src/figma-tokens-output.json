@@ -520,45 +520,50 @@
         "value": "2",
         "type": "sizing"
       },
+      "quark": {
+        "value": "1rem",
+        "description": "Quark",
+        "type": "sizing"
+      },
       "q-1": {
-        "value": "4",
+        "value": "({size.quark}/8)*{size.multiplier}",
         "description": "Quark",
         "type": "sizing"
       },
       "q-2": {
-        "value": "{size.q-1}*{size.multiplier}",
+        "value": "({size.quark}/4)*{size.multiplier}",
         "type": "sizing"
       },
       "q-3": {
-        "value": "({size.q-1}*2)*{size.multiplier}",
+        "value": "({size.quark}/2)*{size.multiplier}",
         "type": "sizing"
       },
       "q-4": {
-        "value": "({size.q-1}*4)*{size.multiplier}",
+        "value": "{size.quark}*{size.multiplier}",
         "type": "sizing"
       },
       "q-5": {
-        "value": "({size.q-1}*5)*{size.multiplier}",
+        "value": "({size.quark}*2)*{size.multiplier}",
         "type": "sizing"
       },
       "q-6": {
-        "value": "({size.q-1}*6)*{size.multiplier}",
+        "value": "({size.quark}*3)*{size.multiplier}",
         "type": "sizing"
       },
       "q-7": {
-        "value": "({size.q-1}*7)*{size.multiplier}",
+        "value": "({size.quark}*4)*{size.multiplier}",
         "type": "sizing"
       },
       "q-8": {
-        "value": "({size.q-1}*8)*{size.multiplier}",
+        "value": "({size.quark}*5)*{size.multiplier}",
         "type": "sizing"
       },
       "q-9": {
-        "value": "({size.q-1}*9)*{size.multiplier}",
+        "value": "({size.quark}*6)*{size.multiplier}",
         "type": "sizing"
       },
       "q-10": {
-        "value": "({size.q-1}*10)*{size.multiplier}",
+        "value": "({size.quark}*7)*{size.multiplier}",
         "type": "sizing"
       }
     },
@@ -691,45 +696,50 @@
         "value": "2",
         "type": "spacing"
       },
+      "quark": {
+        "value": "1rem",
+        "description": "Quark",
+        "type": "spacing"
+      },
       "q-1": {
-        "value": "4",
+        "value": "({spacing.quark}/8)*{spacing.multiplier}",
         "description": "Quark",
         "type": "spacing"
       },
       "q-2": {
-        "value": "{spacing.q-1}*{spacing.multiplier}",
+        "value": "({spacing.quark}/4)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-3": {
-        "value": "({spacing.q-1}*2)*{spacing.multiplier}",
+        "value": "({spacing.quark}/2)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-4": {
-        "value": "({spacing.q-1}*4)*{spacing.multiplier}",
+        "value": "{spacing.quark}*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-5": {
-        "value": "({spacing.q-1}*5)*{spacing.multiplier}",
+        "value": "({spacing.quark}*2)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-6": {
-        "value": "({spacing.q-1}*6)*{spacing.multiplier}",
+        "value": "({spacing.quark}*3)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-7": {
-        "value": "({spacing.q-1}*7)*{spacing.multiplier}",
+        "value": "({spacing.quark}*4)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-8": {
-        "value": "({spacing.q-1}*8)*{spacing.multiplier}",
+        "value": "({spacing.quark}*5)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-9": {
-        "value": "({spacing.q-1}*9)*{spacing.multiplier}",
+        "value": "({spacing.quark}*6)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-10": {
-        "value": "({spacing.q-1}*10)*{spacing.multiplier}",
+        "value": "({spacing.quark}*7)*{spacing.multiplier}",
         "type": "spacing"
       }
     }
