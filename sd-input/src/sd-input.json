@@ -538,44 +538,44 @@
       "description": "Quark",
       "type": "sizing"
     },
-    "q-1": {
+    "x-1": {
       "value": "({size.quark}/8)*{size.multiplier}",
       "description": "Quark",
       "type": "sizing"
     },
-    "q-2": {
+    "x-2": {
       "value": "({size.quark}/4)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-3": {
+    "x-3": {
       "value": "({size.quark}/2)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-4": {
+    "x-4": {
       "value": "{size.quark}*{size.multiplier}",
       "type": "sizing"
     },
-    "q-5": {
+    "x-5": {
       "value": "({size.quark}*2)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-6": {
+    "x-6": {
       "value": "({size.quark}*3)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-7": {
+    "x-7": {
       "value": "({size.quark}*4)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-8": {
+    "x-8": {
       "value": "({size.quark}*5)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-9": {
+    "x-9": {
       "value": "({size.quark}*6)*{size.multiplier}",
       "type": "sizing"
     },
-    "q-10": {
+    "x-10": {
       "value": "({size.quark}*7)*{size.multiplier}",
       "type": "sizing"
     }
@@ -714,44 +714,44 @@
       "description": "Quark",
       "type": "spacing"
     },
-    "q-1": {
+    "x-1": {
       "value": "({spacing.quark}/8)*{spacing.multiplier}",
       "description": "Quark",
       "type": "spacing"
     },
-    "q-2": {
+    "x-2": {
       "value": "({spacing.quark}/4)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-3": {
+    "x-3": {
       "value": "({spacing.quark}/2)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-4": {
+    "x-4": {
       "value": "{spacing.quark}*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-5": {
+    "x-5": {
       "value": "({spacing.quark}*2)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-6": {
+    "x-6": {
       "value": "({spacing.quark}*3)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-7": {
+    "x-7": {
       "value": "({spacing.quark}*4)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-8": {
+    "x-8": {
       "value": "({spacing.quark}*5)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-9": {
+    "x-9": {
       "value": "({spacing.quark}*6)*{spacing.multiplier}",
       "type": "spacing"
     },
-    "q-10": {
+    "x-10": {
       "value": "({spacing.quark}*7)*{spacing.multiplier}",
       "type": "spacing"
     }
