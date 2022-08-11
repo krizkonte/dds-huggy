@@ -692,16 +692,16 @@
         "type": "spacing"
       },
       "q-1": {
-        "value": "4px",
+        "value": "4",
         "description": "Quark",
         "type": "spacing"
       },
       "q-2": {
-        "value": "{spacing.q-1}*{spacing.multiplier}",
+        "value": "{spacing.q-1}*{spacing.multiplier}px",
         "type": "spacing"
       },
       "q-3": {
-        "value": "({spacing.q-1}*2)*{spacing.multiplier}",
+        "value": "({spacing.q-1}*2)*{spacing.multiplier}px",
         "type": "spacing"
       },
       "q-4": {
