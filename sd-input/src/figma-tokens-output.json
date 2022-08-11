@@ -521,7 +521,7 @@
         "type": "sizing"
       },
       "q-1": {
-        "value": "4px",
+        "value": "4",
         "description": "Quark",
         "type": "sizing"
       },
@@ -692,16 +692,16 @@
         "type": "spacing"
       },
       "q-1": {
-        "value": "4px",
+        "value": "4",
         "description": "Quark",
         "type": "spacing"
       },
       "q-2": {
-        "value": "{spacing.q-1}*{spacing.multiplier}px",
+        "value": "{spacing.q-1}*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-3": {
-        "value": "({spacing.q-1}*2)*{spacing.multiplier}px",
+        "value": "({spacing.q-1}*2)*{spacing.multiplier}",
         "type": "spacing"
       },
       "q-4": {
