@@ -691,7 +691,7 @@
       "type": "spacing"
     },
     "q-1": {
-      "value": 4,
+      "value": "4px",
       "description": "Quark",
       "type": "spacing"
     },
