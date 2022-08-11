@@ -18,41 +18,51 @@
     },
     "font-size": {
       "multiplier": {
-        "value": "1.1666",
+        "value": "1.125",
         "type": "fontSizes"
       },
-      "x-1": {
-        "value": "12px",
+      "x-n2": {
+        "value": "({font-size.x-n1})/{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Tiny / 0.69rem"
       },
-      "x-2": {
-        "value": "{font-size.x-1}*{font-size.multiplier}",
+      "x-n1": {
+        "value": "({font-size.x-default})/{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Extra-small / 0.88rem"
       },
-      "x-3": {
-        "value": "({font-size.x-1}*1.3)*{font-size.multiplier}",
+      "x-default": {
+        "value": "1rem",
         "type": "fontSizes",
         "description": "Small / 1rem"
       },
-      "x-4": {
-        "value": "({font-size.x-1}*1.6)*{font-size.multiplier}",
+      "x-p1": {
+        "value": "({font-size.x-default})*{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Medium / 1.13rem"
       },
-      "x-5": {
-        "value": "({font-size.x-1}*1.9)*{font-size.multiplier}",
+      "x-p2": {
+        "value": "({font-size.x-p1})*{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Large / 1.25rem"
       },
-      "x-6": {
-        "value": "({font-size.x-1}*2.3)*{font-size.multiplier}",
+      "x-p3": {
+        "value": "({font-size.x-p2})*{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Extra-large / 1.5rem"
       },
-      "x-7": {
-        "value": "({font-size.x-1}*2.77)*{font-size.multiplier}",
+      "x-p4": {
+        "value": "({font-size.x-p3})*{font-size.multiplier}",
+        "type": "fontSizes",
+        "description": "Big / 2rem"
+      },
+      "x-p5": {
+        "value": "({font-size.x-p4})*{font-size.multiplier}",
+        "type": "fontSizes",
+        "description": "Big / 2rem"
+      },
+      "x-p6": {
+        "value": "({font-size.x-p5})*{font-size.multiplier}",
         "type": "fontSizes",
         "description": "Big / 2rem"
       }
@@ -474,7 +484,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{font-weight.main.regular}",
           "lineHeight": "{line-height.x-2}",
-          "fontSize": "{font-size.x-7}",
+          "fontSize": "{font-size.x-p4}",
           "letterSpacing": "{letter-spacing.xs}",
           "textDecoration": "{txt-deco.none}"
         },
@@ -485,7 +495,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{font-weight.main.regular}",
           "lineHeight": "{line-height.x-3}",
-          "fontSize": "{font-size.x-6}",
+          "fontSize": "{font-size.x-p3}",
           "letterSpacing": "{letter-spacing.default}",
           "textDecoration": "{txt-deco.none}"
         },
@@ -496,7 +506,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{font-weight.main.bold}",
           "lineHeight": "{line-height.x-3}",
-          "fontSize": "{font-size.x-5}",
+          "fontSize": "{font-size.x-p2}",
           "letterSpacing": "{letter-spacing.sm}",
           "textDecoration": "{txt-deco.none}"
         },
@@ -574,7 +584,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-4}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.none}"
           },
@@ -585,7 +595,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-4}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.underline}"
           },
@@ -598,7 +608,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.bold}",
             "lineHeight": "{line-height.x-3}",
-            "fontSize": "{font-size.x-2}",
+            "fontSize": "{font-size.x-n1}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.none}"
           },
@@ -609,7 +619,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.bold}",
             "lineHeight": "{line-height.x-3}",
-            "fontSize": "{font-size.x-2}",
+            "fontSize": "{font-size.x-n1}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.underline}"
           },
@@ -624,7 +634,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-4}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.none}"
           },
@@ -635,7 +645,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-4}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.underline}"
           },
@@ -648,7 +658,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-3}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.none}"
           },
@@ -659,7 +669,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{font-weight.main.regular}",
             "lineHeight": "{line-height.x-3}",
-            "fontSize": "{font-size.x-3}",
+            "fontSize": "{font-size.x-default}",
             "letterSpacing": "{letter-spacing.sm}",
             "textDecoration": "{txt-deco.underline}"
           },
@@ -673,7 +683,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{font-weight.main.bold}",
           "lineHeight": "{line-height.none}",
-          "fontSize": "{font-size.x-2}",
+          "fontSize": "{font-size.x-n1}",
           "letterSpacing": "{letter-spacing.lg}",
           "textDecoration": "{txt-deco.none}"
         },
@@ -684,7 +694,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{font-weight.main.regular}",
           "lineHeight": "{line-height.x-1}",
-          "fontSize": "{font-size.x-1}",
+          "fontSize": "{font-size.x-n2}",
           "letterSpacing": "{letter-spacing.md}",
           "textDecoration": "{txt-deco.none}"
         },
