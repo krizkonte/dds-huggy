@@ -32,7 +32,7 @@
         "description": "Extra-small / 0.88rem"
       },
       "x-default": {
-        "value": "1rem",
+        "value": "1",
         "type": "fontSizes",
         "description": "Small / 1rem"
       },
@@ -751,6 +751,14 @@
       "q-10": {
         "value": "({spacing.quark}*7)*{spacing.multiplier}",
         "type": "spacing"
+      }
+    }
+  },
+  "semantic": {
+    "font-size": {
+      "button": {
+        "value": "{font-size.x-n1}rem",
+        "type": "fontSizes"
       }
     }
   },
