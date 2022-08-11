@@ -32,7 +32,7 @@
         "description": "Extra-small / 0.88rem"
       },
       "x-default": {
-        "value": "1",
+        "value": "1rem",
         "type": "fontSizes",
         "description": "Small / 1rem"
       },
