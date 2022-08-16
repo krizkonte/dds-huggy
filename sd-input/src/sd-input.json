@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": {
     "0": {
-      "value": "__global",
+      "value": "__Global 🌍",
       "type": "other"
     },
     "1": {
@@ -9,15 +9,35 @@
       "type": "other"
     },
     "2": {
-      "value": "semantic-light",
+      "value": "semantic-mesures",
       "type": "other"
     },
     "3": {
-      "value": "__integrations",
+      "value": "semantic-light",
       "type": "other"
     },
     "4": {
-      "value": "skills",
+      "value": "__Team-Project 🏃",
+      "type": "other"
+    },
+    "5": {
+      "value": "pan-base",
+      "type": "other"
+    },
+    "6": {
+      "value": "int-marketplace",
+      "type": "other"
+    },
+    "7": {
+      "value": "int-skills",
+      "type": "other"
+    },
+    "8": {
+      "value": "__Component 📦",
+      "type": "other"
+    },
+    "9": {
+      "value": "button",
       "type": "other"
     }
   },
@@ -439,6 +459,34 @@
       }
     }
   },
+  "border-radius": {
+    "button": {
+      "default": {
+        "value": "{border-radius.pill}",
+        "type": "borderRadius"
+      }
+    },
+    "x-default": {
+      "value": "0px",
+      "type": "borderRadius"
+    },
+    "x-p1": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "x-p2": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "x-p3": {
+      "value": "24px",
+      "type": "borderRadius"
+    },
+    "pill": {
+      "value": "500px",
+      "type": "borderRadius"
+    }
+  },
   "font-size": {
     "x-m2": {
       "value": "({font-size.x-m1})/{font-size.multiplier}",
@@ -565,28 +613,6 @@
     "underline": {
       "value": "underline",
       "type": "textDecoration"
-    }
-  },
-  "border-radius": {
-    "x-default": {
-      "value": "0px",
-      "type": "borderRadius"
-    },
-    "x-p1": {
-      "value": "4px",
-      "type": "borderRadius"
-    },
-    "x-p2": {
-      "value": "8px",
-      "type": "borderRadius"
-    },
-    "x-p3": {
-      "value": "24px",
-      "type": "borderRadius"
-    },
-    "pill": {
-      "value": "500px",
-      "type": "borderRadius"
     }
   },
   "opacity": {
