@@ -1,5 +1,5 @@
 {
-  "__global": {},
+  "__Global 🌍": {},
   "core": {
     "font-family": {
       "main": {
@@ -757,6 +757,16 @@
       }
     }
   },
+  "semantic-mesures": {
+    "border-radius": {
+      "button": {
+        "default": {
+          "value": "{border-radius.pill}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  },
   "semantic-light": {
     "color": {
       "background": {
@@ -905,8 +915,10 @@
       }
     }
   },
-  "__integrations": {},
-  "skills": {
+  "__Team-Project 🏃": {},
+  "pan-base": {},
+  "int-marketplace": {},
+  "int-skills": {
     "font-family": {
       "main": {
         "value": "Roboto Flex",
@@ -914,14 +926,21 @@
       }
     }
   },
+  "__Component 📦": {},
+  "button": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "__global",
+      "__Global 🌍",
       "core",
+      "semantic-mesures",
       "semantic-light",
-      "__integrations",
-      "skills"
+      "__Team-Project 🏃",
+      "pan-base",
+      "int-marketplace",
+      "int-skills",
+      "__Component 📦",
+      "button"
     ]
   }
 }
