@@ -30,7 +30,7 @@
   --dds-core-letter-spacing-x-p5: 8%;
   --dds-core-txt-deco-none: none;
   --dds-core-txt-deco-underline: underline;
-  --dds-core-color-base-white: #ffffff;
+  --dds-core-color-base-white: #ffffee;
   --dds-core-color-base-black: #000000;
   --dds-core-color-neutral-10: #f8f8f8;
   --dds-core-color-neutral-20: #e1e1e1;
@@ -148,7 +148,7 @@
   --dds-core-spacing-x-10: (1rem*7)*2;
   --dds-core-spacing-multiplier: 2;
   --dds-semantic-mesures-border-radius-button-default: 500px;
-  --dds-semantic-light-color-background-neutral-default: #ffffff;
+  --dds-semantic-light-color-background-neutral-default: #ffffee;
   --dds-semantic-light-color-background-neutral-medium: #f8f8f8;
   --dds-semantic-light-color-background-neutral-strong: #e1e1e1;
   --dds-semantic-light-color-background-disabled-default: #c9c9c9;
@@ -157,7 +157,7 @@
   --dds-semantic-light-color-background-primary-medium: #7e6fea;
   --dds-semantic-light-color-background-primary-default: #321bde;
   --dds-semantic-light-color-background-primary-strong: #2715b0;
-  --dds-semantic-light-color-background-danger-default: #ffffff;
+  --dds-semantic-light-color-background-danger-default: #ffffee;
   --dds-semantic-light-color-background-danger-translucid: #faece3;
   --dds-semantic-light-color-background-danger-weak: #eeab91;
   --dds-semantic-light-color-background-sucess-default: #309e77;
@@ -189,7 +189,7 @@
   --dds-token-set-order-9: button;
   --dds-font-family-main: Roboto Flex;
   --dds-font-family-mail: Arial;
-  --dds-color-background-neutral-default: #ffffff;
+  --dds-color-background-neutral-default: #ffffee;
   --dds-color-background-neutral-medium: #f8f8f8;
   --dds-color-background-neutral-strong: #e1e1e1;
   --dds-color-background-disabled-default: #c9c9c9;
@@ -198,7 +198,7 @@
   --dds-color-background-primary-medium: #7e6fea;
   --dds-color-background-primary-default: #321bde;
   --dds-color-background-primary-strong: #2715b0;
-  --dds-color-background-danger-default: #ffffff;
+  --dds-color-background-danger-default: #ffffee;
   --dds-color-background-danger-translucid: #faece3;
   --dds-color-background-danger-weak: #eeab91;
   --dds-color-background-sucess-default: #309e77;
@@ -217,7 +217,7 @@
   --dds-color-text-on-primary-strong: #2715b0;
   --dds-color-text-on-disabled-default: #949494;
   --dds-color-text-on-danger-default: #f8f8f8;
-  --dds-color-base-white: #ffffff;
+  --dds-color-base-white: #ffffee;
   --dds-color-base-black: #000000;
   --dds-color-neutral-10: #f8f8f8;
   --dds-color-neutral-20: #e1e1e1;
