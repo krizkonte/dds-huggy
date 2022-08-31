@@ -147,7 +147,7 @@
   --dds-core-core-spacing-x-p9: (1rem*6)*2;
   --dds-core-core-spacing-x-p10: (1rem*7)*2;
   --dds-core-core-spacing-multiplier: 2;
-  --dds-core-font-family-main: Roboto;
+  --dds-core-font-family-main: Roboto Flex;
   --dds-core-font-family-mail: Arial;
   --dds-core-font-size-x-m2: ((1rem)/1.125)/1.125;
   --dds-core-font-size-x-m1: (1rem)/1.125;
@@ -319,14 +319,13 @@
   --dds-semantic-color-text-on-primary-strong: #2715b0;
   --dds-semantic-color-text-on-disabled-default: #949494;
   --dds-semantic-color-text-on-danger-default: #f8f8f8;
-  --dds-int-skills-font-family-main: Roboto Flex;
+  --dds-int-skills-core-font-family-main: Roboto Flex;
   --dds-token-set-order-0: __Global 🌍;
   --dds-token-set-order-1: core;
   --dds-token-set-order-2: semantic;
   --dds-token-set-order-3: __Team-Project 🏃;
   --dds-token-set-order-4: int-skills;
   --dds-token-set-order-5: __Component 📦;
-  --dds-font-family-main: Roboto Flex;
   --dds-color-background-neutral-default: #ffffff;
   --dds-color-background-neutral-medium: #f8f8f8;
   --dds-color-background-neutral-strong: #e1e1e1;
