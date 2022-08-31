@@ -911,10 +911,12 @@
   },
   "__Team-Project 🏃": {},
   "int-skills": {
-    "font-family": {
-      "main": {
-        "value": "Roboto Flex",
-        "type": "fontFamilies"
+    "core": {
+      "font-family": {
+        "main": {
+          "value": "Roboto Flex",
+          "type": "fontFamilies"
+        }
       }
     }
   },
