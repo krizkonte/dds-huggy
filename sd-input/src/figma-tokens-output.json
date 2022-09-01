@@ -1,6 +1,6 @@
 {
   "__Global 🌍": {},
-  "core": {
+  "set-core": {
     "core": {
       "font-family": {
         "main": {
@@ -759,7 +759,7 @@
       }
     }
   },
-  "core-grayrefator": {
+  "set-grayref": {
     "core": {
       "color": {
         "neutral": {
@@ -815,7 +815,7 @@
       }
     }
   },
-  "semantic-light": {
+  "set-semantic-light": {
     "semantic": {
       "background": {
         "neutral": {
@@ -863,7 +863,7 @@
         "danger": {
           "default": {
             "type": "color",
-            "value": "{core.color.base.white}"
+            "value": "{core.color.neutral.white}"
           },
           "translucid": {
             "type": "color",
@@ -979,9 +979,9 @@
   "$metadata": {
     "tokenSetOrder": [
       "__Global 🌍",
-      "core",
-      "core-grayrefator",
-      "semantic-light",
+      "set-core",
+      "set-grayref",
+      "set-semantic-light",
       "__Team-Project 🏃",
       "int-skills",
       "__Component 📦"
