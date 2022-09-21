@@ -189,15 +189,15 @@
           "100": {
             "value": "#050505",
             "type": "color"
-          },
-          "white": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "black": {
-            "value": "#000000",
-            "type": "color"
           }
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "black": {
+          "value": "#000000",
+          "type": "color"
         },
         "primary": {
           "10": {
@@ -802,15 +802,15 @@
           "100": {
             "value": "#1a1a1a",
             "type": "color"
-          },
-          "white": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "black": {
-            "value": "#000000",
-            "type": "color"
           }
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "black": {
+          "value": "#000000",
+          "type": "color"
         }
       }
     }
@@ -1020,7 +1020,7 @@
       "background": {
         "neutral": {
           "default": {
-            "value": "{core.color.neutral.150}",
+            "value": "{core.color.white}",
             "type": "color"
           },
           "medium": {
@@ -1063,7 +1063,7 @@
         "danger": {
           "default": {
             "type": "color",
-            "value": "{core.color.neutral.150}"
+            "value": "{core.color.danger.70}"
           },
           "translucid": {
             "type": "color",
@@ -1113,7 +1113,7 @@
         "on": {
           "neutral": {
             "weak": {
-              "value": "{core.color.neutral.60}",
+              "value": "{core.color.neutral.50}",
               "type": "color"
             },
             "default": {
