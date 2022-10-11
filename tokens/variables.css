@@ -48,7 +48,7 @@
   --dds-set-core-core-color-primary-40: #9f94ef;
   --dds-set-core-core-color-primary-50: #7e6fea;
   --dds-set-core-core-color-primary-60: #5946e4;
-  --dds-set-core-core-color-primary-70: #10b490;
+  --dds-set-core-core-color-primary-70: #321bde;
   --dds-set-core-core-color-primary-80: #2715b0;
   --dds-set-core-core-color-primary-90: #180d6e;
   --dds-set-core-core-color-primary-100: #060321;
@@ -212,7 +212,7 @@
   --dds-set-semantic-light-semantic-background-primary-translucid: #f8f7fd;
   --dds-set-semantic-light-semantic-background-primary-weak: #bdb5f4;
   --dds-set-semantic-light-semantic-background-primary-medium: #7e6fea;
-  --dds-set-semantic-light-semantic-background-primary-default: #10b490;
+  --dds-set-semantic-light-semantic-background-primary-default: #321bde;
   --dds-set-semantic-light-semantic-background-primary-strong: #2715b0;
   --dds-set-semantic-light-semantic-background-danger-default: #ad2213;
   --dds-set-semantic-light-semantic-background-danger-translucid: #faece3;
@@ -227,7 +227,7 @@
   --dds-set-semantic-light-semantic-text-on-neutral-default: #b7b7bd;
   --dds-set-semantic-light-semantic-text-on-neutral-strong: #9c9ca1;
   --dds-set-semantic-light-semantic-text-on-neutral-danger: #ad2213;
-  --dds-set-semantic-light-semantic-text-on-neutral-primary: #10b490;
+  --dds-set-semantic-light-semantic-text-on-neutral-primary: #321bde;
   --dds-set-semantic-light-semantic-text-on-primary-default: #f9f9fb;
   --dds-set-semantic-light-semantic-text-on-primary-weak: #5946e4;
   --dds-set-semantic-light-semantic-text-on-primary-strong: #2715b0;
@@ -277,7 +277,7 @@
   --dds-core-color-primary-40: #9f94ef;
   --dds-core-color-primary-50: #7e6fea;
   --dds-core-color-primary-60: #5946e4;
-  --dds-core-color-primary-70: #10b490;
+  --dds-core-color-primary-70: #321bde;
   --dds-core-color-primary-80: #2715b0;
   --dds-core-color-primary-90: #180d6e;
   --dds-core-color-primary-100: #060321;
@@ -408,7 +408,7 @@
   --dds-semantic-background-primary-translucid: #f8f7fd;
   --dds-semantic-background-primary-weak: #bdb5f4;
   --dds-semantic-background-primary-medium: #7e6fea;
-  --dds-semantic-background-primary-default: #10b490;
+  --dds-semantic-background-primary-default: #321bde;
   --dds-semantic-background-primary-strong: #2715b0;
   --dds-semantic-background-danger-default: #ad2213;
   --dds-semantic-background-danger-translucid: #faece3;
@@ -423,7 +423,7 @@
   --dds-semantic-text-on-neutral-default: #b7b7bd;
   --dds-semantic-text-on-neutral-strong: #9c9ca1;
   --dds-semantic-text-on-neutral-danger: #ad2213;
-  --dds-semantic-text-on-neutral-primary: #10b490;
+  --dds-semantic-text-on-neutral-primary: #321bde;
   --dds-semantic-text-on-primary-default: #f9f9fb;
   --dds-semantic-text-on-primary-weak: #5946e4;
   --dds-semantic-text-on-primary-strong: #2715b0;
