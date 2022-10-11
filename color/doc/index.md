@@ -16,7 +16,7 @@ Primary colors of our brand.
 ```js story
 export const primary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--dds-core-colors-primary"
+    css-props-prefix="--dds-core-color-primary"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -30,7 +30,21 @@ Primary colors of our brand.
 ```js story
 export const secondary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--dds-core-colors-secondary"
+    css-props-prefix="--dds-core-color-secondary"
+    component-class="box"
+    style-key="background-color"
+  ></dockit-css-showcases>
+`;
+```
+
+### Secondary colors
+
+Neutral colors of our brand.
+
+```js story
+export const neutral = () => html`
+  <dockit-css-showcases
+    css-props-prefix="--dds-core-color-neutral"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
